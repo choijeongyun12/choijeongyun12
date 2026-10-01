@@ -6,7 +6,7 @@ Interested in Autonomous Driving, Embedded Systems, and Automotive Software
 ---
 
 ## Education
-Kookmin University (2024 ~ )
+Kookmin University — Department of Future Mobility (2024 ~ )
 
 ---
 
@@ -19,8 +19,8 @@ Kookmin University (2024 ~ )
 ---
 
 ## Publications
-- Jeongyun Choi, "Dynamic Sequence Reordering for Truck Platooning," Korean Society of Automotive Engineers (KSAE), 2025
-- Jeongyun Choi, "Range-Efficiency Assessment Method for Dynamic e-Truck Platoon," Korean Society of Automotive Engineers (KSAE), 2026
+- Yoonjin Cho, Daeho Won, Jeongyun Choi, "Dynamic Sequence Reordering for Truck Platooning," Korean Society of Automotive Engineers (KSAE), 2025
+- Yoonjin Cho, Daeho Won, Jeongyun Choi, "Range-Efficiency Assessment Method for Dynamic e-Truck Platoon," Korean Society of Automotive Engineers (KSAE), 2026
 
 ---
 
