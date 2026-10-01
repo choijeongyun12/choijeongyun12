@@ -1,5 +1,4 @@
-# Hi, I'm
-# Jeongyun Choi
+# Hi, I'm Jeongyun Choi
 
 Undergraduate student at Kookmin University
 Interested in Autonomous Driving, Embedded Systems, and Automotive Software
