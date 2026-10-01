@@ -10,6 +10,6 @@ Autonomous Driving · Embedded Systems · Automotive Software
 
 🔭 Currently working on dynamic sequence reordering and energy-efficiency evaluation for electric truck platooning (CARLA + ROS2).
 
-🌱 Active member of [SEA:ME@KOREA](https://github.com/choijeongyun12), an automotive software study club.
+🌱 Active member of [SEA:ME@KOREA](https://auto.kookmin.ac.kr/campus/student_activities/seame), an automotive software study club.
 
 📫 Reach me at **putyelly05@gmail.com**
