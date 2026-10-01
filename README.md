@@ -4,7 +4,6 @@ Undergraduate Researcher @ Kookmin University, Dept. of Future Mobility
 Autonomous Driving · Embedded Systems · Automotive Software
 
 📄 **[Full CV](https://choijeongyun12.github.io/cv/)** — education, publications, awards, activities
-✉️ [putyelly05@gmail.com](mailto:putyelly05@gmail.com)
 
 ---
 
