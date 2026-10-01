@@ -1,44 +1,19 @@
-# Hi, I'm
-# Jeongyun Choi
+<img align="left" width="140" src="assets/profile.jpg" alt="Jeongyun Choi" style="border-radius:50%;margin-right:20px;">
 
-Undergraduate student at Kookmin University
-Interested in Autonomous Driving, Embedded Systems, and Automotive Software
+### Jeongyun Choi · 최정윤
 
----
+Undergraduate Researcher @ Kookmin University
+Autonomous Driving · Embedded Systems · Automotive Software
 
-## Education
-Kookmin University (2024 ~ )
+📄 **[Full CV](https://claude.ai/artifact/3F9WTJDYTxXNRYYbhMwLeX)** — education, publications, awards, activities
+✉️ [putyelly05@gmail.com](mailto:putyelly05@gmail.com)
 
----
-
-## Research Interests
-- Autonomous Driving & Vehicle Platooning
-- Embedded Systems
-- Automotive Software
-- Sensor Fusion & Real-Time Systems
+<br clear="left">
 
 ---
 
-## Publications
-- Jeongyun Choi, "Dynamic Sequence Reordering for Truck Platooning," Korean Society of Automotive Engineers (KSAE), 2025
-- Jeongyun Choi, "Range-Efficiency Assessment Method for Dynamic e-Truck Platoon," Korean Society of Automotive Engineers (KSAE), 2026
+🔭 Currently working on dynamic sequence reordering and energy-efficiency evaluation for electric truck platooning (CARLA + ROS2).
 
----
+🌱 Active member of [SEA:ME@KOREA](https://github.com/choijeongyun12), an automotive software study club.
 
-## Awards
-- Grand Prize (1st Place) — 2024 National University UAM Olympiad, Social Acceptance Division
-- Silver Award (4th Place) — 2025 SEA:ME Hackathon
-- Best Paper Award — 2026 KSAE Spring Conference, Poster Division
-- Grand Prize (1st Place) — 2026 SEA:ME Hackathon
-
----
-
-## Activities
-SEA:ME@KOREA — Automotive Software Study Club (2025.01 ~ )
-Member of SEA:ME@KOREA, a student community focused on automotive software development, contributing to projects and workshops on vehicle software systems.
-
----
-
-## Contact
-- Email: putyelly05@gmail.com
-- GitHub: github.com/choijeongyun12
+📫 Reach me at **putyelly05@gmail.com**
