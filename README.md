@@ -1,5 +1,3 @@
-<img align="left" width="140" src="assets/profile.jpg" alt="Jeongyun Choi" style="border-radius:50%;margin-right:20px;">
-
 ### Jeongyun Choi · 최정윤
 
 Undergraduate Researcher @ Kookmin University, Dept. of Future Mobility
@@ -7,8 +5,6 @@ Autonomous Driving · Embedded Systems · Automotive Software
 
 📄 **[Full CV](https://claude.ai/artifact/3F9WTJDYTxXNRYYbhMwLeX)** — education, publications, awards, activities
 ✉️ [putyelly05@gmail.com](mailto:putyelly05@gmail.com)
-
-<br clear="left">
 
 ---
 
