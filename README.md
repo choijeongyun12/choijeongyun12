@@ -13,6 +13,7 @@ Autonomous Driving · Embedded Systems · End-to-End Driving · Automotive Softw
 
 📫 Reach me at **putyelly05@gmail.com**
 
+<!-- Badges: shields.io (flat-square) -->
 🛠️ **Tech Stack**
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
